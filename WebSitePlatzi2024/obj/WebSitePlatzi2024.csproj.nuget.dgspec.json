@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\ruth\\TecnoGestion\\Platzi\\Curso_AppServices_LogicApps_Azure\\Fuentes\\WebSitePlatzi2024\\WebSitePlatzi2024\\WebSitePlatzi2024\\WebSitePlatzi2024.csproj": {}
+    "D:\\ruth\\TecnoGestion\\Platzi\\Curso_AppServices_LogicApps_Azure\\Fuentes\\WebSitePlatzi2024_I\\WebSitePlatzi2024_I\\WebSitePlatzi2024\\WebSitePlatzi2024.csproj": {}
   },
   "projects": {
-    "D:\\ruth\\TecnoGestion\\Platzi\\Curso_AppServices_LogicApps_Azure\\Fuentes\\WebSitePlatzi2024\\WebSitePlatzi2024\\WebSitePlatzi2024\\WebSitePlatzi2024.csproj": {
+    "D:\\ruth\\TecnoGestion\\Platzi\\Curso_AppServices_LogicApps_Azure\\Fuentes\\WebSitePlatzi2024_I\\WebSitePlatzi2024_I\\WebSitePlatzi2024\\WebSitePlatzi2024.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ruth\\TecnoGestion\\Platzi\\Curso_AppServices_LogicApps_Azure\\Fuentes\\WebSitePlatzi2024\\WebSitePlatzi2024\\WebSitePlatzi2024\\WebSitePlatzi2024.csproj",
+        "projectUniqueName": "D:\\ruth\\TecnoGestion\\Platzi\\Curso_AppServices_LogicApps_Azure\\Fuentes\\WebSitePlatzi2024_I\\WebSitePlatzi2024_I\\WebSitePlatzi2024\\WebSitePlatzi2024.csproj",
         "projectName": "WebSitePlatzi2024",
-        "projectPath": "D:\\ruth\\TecnoGestion\\Platzi\\Curso_AppServices_LogicApps_Azure\\Fuentes\\WebSitePlatzi2024\\WebSitePlatzi2024\\WebSitePlatzi2024\\WebSitePlatzi2024.csproj",
+        "projectPath": "D:\\ruth\\TecnoGestion\\Platzi\\Curso_AppServices_LogicApps_Azure\\Fuentes\\WebSitePlatzi2024_I\\WebSitePlatzi2024_I\\WebSitePlatzi2024\\WebSitePlatzi2024.csproj",
         "packagesPath": "C:\\Users\\Ruth\\.nuget\\packages\\",
-        "outputPath": "D:\\ruth\\TecnoGestion\\Platzi\\Curso_AppServices_LogicApps_Azure\\Fuentes\\WebSitePlatzi2024\\WebSitePlatzi2024\\WebSitePlatzi2024\\obj\\",
+        "outputPath": "D:\\ruth\\TecnoGestion\\Platzi\\Curso_AppServices_LogicApps_Azure\\Fuentes\\WebSitePlatzi2024_I\\WebSitePlatzi2024_I\\WebSitePlatzi2024\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
